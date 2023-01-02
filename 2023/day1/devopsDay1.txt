@@ -1,0 +1,43 @@
+              Day 1
+
+# Fork this Repo - Done 
+
+# Start with a DevOps Roadmap - Done 
+
+# Write a LinkedIn post or a small article about your understanding of DevOps - Done
+
+# What is DevOps - DevOps is a Methodology Which Involves Practices To Filled The Gap Between Developer and Operation Teams By Doing A Autiomation Using A 
+                   Several Tools Such as GitHub, Jenkins, Docker, Terraform, And Using a Cloud Service Provider such as AWS, Azure, GCP 
+
+# What is Automation, Scaling, Infrastructure - 
+               1)Automation - Automation is The Term Where You Write a Some Kind Of Script To Automate the Things without Doing a Mannual Process
+                              because it's a very fast process compare to mannual and the chaces of getting error is also low so 
+                              ex - Terraform - Infrastructure as a Code
+                                   bash or shall - Scripting language
+                                   
+              2)Scaling -     Scale is like if Your Trafic Goes up In Your Website so you have to Scale means Increase the Configureation such as ram and Cpu 
+                              so Your Machine can Handle the traffic that's preety much about Scalling 
+                              we have a Two Scalling 1) Scalling In 2) Scalling Out 
+                       
+                       
+             3)Infrastructure -  Infrastructure as code (IaC) uses DevOps methodology and versioning with a descriptive model to define and deploy infrastructure,
+                                 such as networks, virtual machines, load balancers, and connection topologies . 
+                             
+
+Why DevOps is Important, etc - : DevOps describes a culture and set of processes that bring development and operations teams together to complete software development.
+                                 It allows organizations to create and improve products at a faster pace than they can with traditional software development
+                                 approaches.
+                                 And, it’s gaining popularity at a rapid rate.
+                                 1. Shorter Development Cycles, Faster Innovation
+                                 2. Reduced Deployment Failures, Rollbacks, and Time to Recovery
+                                 3. Improved Communication and Collaboration
+                                 4. Increased Efficiencies
+                                 5. Reduced Costs and IT Headcount
+                                 
+                                 
+                                 
+                                 
+                                 
+                                                    
+
+
