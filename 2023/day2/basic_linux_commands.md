@@ -1,41 +1,32 @@
-## Basic linux commands
+	                                                       * Day-2 *
+  
+1. Basic Linux Commands ➖:
 
-### Listing commands
-```ls option_flag arguments ```--> list the sub directories and files avaiable in the present directory
+mkdir      -      The mkdir command is used to create a new directory under any directory
+ ls            -   The ls command is used to display a list of content of a directory
+ ls -la       -   To Show all Files Include hidden Files
+ pwd        -   Gives The Print or Current Working Directory
+ cd           -  The cd command is used to change the current directory.
+ touch     -   The Touch command is used to create empty files. 
+ cp           -   The cp command is used to copy a file or directory.
+ head       -   The head command is used to display the content of a file. It   displays the first 10 lines of a file.
+ tac          -   The tac command is the reverse of cat command
+ su            -   The su command is the reverse of cat command
+ useradd   -   The useradd command is used to add or remove a user on a Linux server.
+ passwd   -    The passwd command is used to create and change the password for a user.
+groupadd  -   The Groupadd command is used to create a user group.
+sort            -   The sort command is used to sort files in alphabetical order.
 
-Examples:
+2.  Task: 
 
-- ``` ls -l ```--> list the files and directories in long list format with extra information
-- ```ls -a ```--> list all including hidden files and directory
-- ```ls *.sh``` --> list all the files having .sh extension.
+What is the linux command to Check your present working directory.
+Ans - : pwd is User for checking the present Working directory
 
-- ```ls -i ``` --> list the files and directories with index numbers inodes
-- ``` ls -d */``` --> list only directories.(we can also specify a pattern)
+What is the linux command List all the files or directories including hidden files.
+Ans - : ls -     (Show All Files)
+           ls  -a (Show all files include hidden files )
+           ls  -lta (List All Files  or Directory in a ordered )
 
-### Directoy commands
-- ```pwd``` --> print work directory. Gives the present working directory.
+What is the linux command to Create a nested directory A/B/C/D/E
+Ans - : mkdir  -p  A/B/C/D/E
 
-- ```cd path_to_directory``` --> change directory to the provided path
-
-- ```cd ~ ``` or just  ```cd ``` --> change directory to the home directory
-
-- ``` cd - ``` --> Go to the last working directory.
-
-- ``` cd ..``` --> chnage directory to one step back.
-
-- ``` cd ../..``` --> Change directory to 2 levels back.
-
-- ``` mkdir  directoryName``` --> to make a directory in a specific location
-
-Examples:
-```
-mkdir newFolder              # make a new folder 'newFolder'
-
-mkdir .NewFolder              # make a hidden directory (also . before a file to make it hidden)
-
-mkdir A B C D                  #make multiple directories at the same time
-
-mkdir /home/user/Mydirectory   # make a new folder in a specific location
-
-mkdir -p  A/B/C/D              # make a nested directory
-```
